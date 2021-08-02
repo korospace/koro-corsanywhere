@@ -1,5 +1,5 @@
 {
-  "name": "cors-anywhere",
+  "name": "t-gadgetcors",
   "version": "1.0.0",
   "description": "",
   "main": "./node_modules/cors-anywhere/server.js",
